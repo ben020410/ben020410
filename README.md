@@ -2,35 +2,35 @@
   <summary><h2>STACKS</h2></summary>
   
   <h4> 💻 Languages </h4>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/OCTAVE-2AA2C7?style=for-the-badge&logo=octave&logoColor=F77B2A">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL(Oracle)-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=atlassian&logoColor=DC8822">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/SQL(Oracle)-F80000?style=flat-square&logo=oracle&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330">
+  <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-blue?&style=flat-square&logo=css3&logoColor=white">
 
   <h4> 📚 Frameworks, Platforms and Libraries </h4>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express">
+  <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green">
 
   <h4> ☁️ Cloud </h4>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
 
   <h4> 🎨 Design </h4>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-FE9900?style=for-the-badge&logo=adobe%20illustrator&logoColor=330000">
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-F43C8D?style=for-the-badge&logo=adobeindesign&logoColor=2E0013">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-2FA3F7?style=for-the-badge&logo=adobe%20photoshop&logoColor=001D34">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FE9900?style=flat-square&logo=adobe%20illustrator&logoColor=330000">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-F43C8D?style=flat-square&logo=adobeindesign&logoColor=2E0013">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-2FA3F7?style=flat-square&logo=adobe%20photoshop&logoColor=001D34">
 
   <h4> ⚙️ Modeling </h4>
-  <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/SolidWorks-E31818?style=flat-square&logo=dassaultsystemes&logoColor=white">
 
   <h4> 📂 Version Control </h4>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white">
 
 </details>
