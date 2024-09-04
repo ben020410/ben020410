@@ -1,4 +1,4 @@
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -29,4 +29,13 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <br>
+
+</div>
+<br>
+<br>
+
+<div align=center>
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ben020410&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben020410&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
