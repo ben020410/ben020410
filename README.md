@@ -3,14 +3,14 @@
   
   <h4> 💻 Languages </h4>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=atlassian&logoColor=DC8822">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=ardour&logoColor=DC8822">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/SQL(Oracle)-F80000?style=flat-square&logo=oracle&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330">
-  <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-blue?&style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=FFC928">
+  <img src="https://img.shields.io/badge/HTML-E33F10?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-264DE4?&style=flat-square&logo=css3&logoColor=white">
 
   <h4> 📚 Frameworks, Platforms and Libraries </h4>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green">
 
   <h4> ☁️ Cloud </h4>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=252F3E">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
 
   <h4> 🎨 Design </h4>
