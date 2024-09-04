@@ -1,7 +1,6 @@
-<div align=left><h2>STACKS</h2></div>
-
-<div align=left>
-
+<details>
+  <summary><h2>STACKS</h2></summary>
+  
   <h4> 💻 Languages </h4>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/OCTAVE-2AA2C7?style=for-the-badge&logo=octave&logoColor=F77B2A">
@@ -34,4 +33,4 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
-</div>
+</details>
