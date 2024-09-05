@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben020410&layout=compact&hide=Jupyter%20Notebook)
+
 <details>
   <summary><h2>STACKS</h2></summary>
   
