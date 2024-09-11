@@ -17,6 +17,7 @@
   <h4> 📚 Frameworks, Platforms and Libraries </h4>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express">
+  <br>
   <img src="https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green">
   <img src="https://img.shields.io/badge/Tableau-032D60?style=flat-square&logo=Tableau&logoColor=white">
 
