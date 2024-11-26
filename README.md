@@ -13,7 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=ardour&logoColor=DC8822">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL(Oracle)-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   
   <h4> 📚 Frameworks, Platforms and Libraries </h4>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
